@@ -1,0 +1,1 @@
+docker run -d --name jenkinslocal -p 8888:8080 -v /c/Users/pcastanho/Documents/My\ Web\ Sites/jenkins:/var/jenkins_home jenkinsnode
